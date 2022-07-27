@@ -1,0 +1,10 @@
+1.	start virtual server running latest ubuntu
+2.	enable firewall
+3.	set up user
+4.	configure ssh
+5.	install nginx
+6.	install flask
+7.	set up flask to use nginx
+8.	set up ssl
+9.	install database
+10.	set up sessions, authetication and users
