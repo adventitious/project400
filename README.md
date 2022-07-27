@@ -18,7 +18,7 @@ A shopper, or stock picker, may track the contents of their basket.
 Features that are intended to be included
 
 items
-containerszz
+containersz
 
 qrcodes
 barcode
